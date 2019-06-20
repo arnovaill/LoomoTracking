@@ -1,5 +1,5 @@
 # LoomoTracking
-Custom robotic tracking system using a deep learning approach. Semester project supervised by Yuejiang Liu and Prof. Alexandre Alahi at the visual intelligence for transportation lab of EPFL.
+Robotic tracking system using a deep learning approach, implemented in Keras with a Tensorflow backend. Semester project supervised by Yuejiang Liu and Prof. Alexandre Alahi at the visual intelligence for transportation lab of EPFL.
 
 ## Most Important files
 
